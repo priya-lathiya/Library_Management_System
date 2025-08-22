@@ -16,6 +16,5 @@ This project demonstrates the implementation of a Library Management System usin
 
 ## Project Structure:
 
- ERD Diagram:
- - <a href="https://github.com/priya-lathiya/Library_Management_System/blob/main/Screenshot%202025-08-15%20112621.png">ERD Diagram</a>
+ ERD Diagram: <a href="https://github.com/priya-lathiya/Library_Management_System/blob/main/Screenshot%202025-08-15%20112621.png">ERD Diagram</a>
 
