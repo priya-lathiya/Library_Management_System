@@ -19,3 +19,13 @@ This project demonstrates the implementation of a Library Management System usin
 ERD Diagram: <a href="https://github.com/priya-lathiya/Library_Management_System/blob/main/Screenshot%202025-08-15%20112621.png">ERD Diagram</a>
 
 ## Queries For tables and analysis: 
+
+Queries Folder: <a href="https://github.com/priya-lathiya/Library_Management_System/tree/main/sql%20queries">view</a>
+Schemas: <a href="">view</a>
+inserted_values: <a href="">view</a>
+Basic_queries: <a href="">view</a>
+Advanced_queries: <a href="">view</a>
+
+## csv files of Tables:
+
+Tables: <a href="">view</a>
