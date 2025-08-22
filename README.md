@@ -15,8 +15,7 @@ This project demonstrates the implementation of a Library Management System usin
 4. **Advanced SQL Queries**: Develop complex queries to analyze and retrieve specific data.
 
 ## Project Structure:
-
-ERD Diagram: <a href="https://github.com/priya-lathiya/Library_Management_System/blob/main/Screenshot%202025-08-15%20112621.png">ERD Diagram</a>
+![ERD](https://github.com/priya-lathiya/Library_Management_System/blob/main/Screenshot%202025-08-15%20112621.png)
 
 ## Queries For tables and analysis: 
 
