@@ -20,12 +20,11 @@ ERD Diagram: <a href="https://github.com/priya-lathiya/Library_Management_System
 
 ## Queries For tables and analysis: 
 
-Queries Folder: <a href="https://github.com/priya-lathiya/Library_Management_System/tree/main/sql%20queries">view</a>
-Schemas: <a href="">view</a>
-inserted_values: <a href="">view</a>
-Basic_queries: <a href="">view</a>
-Advanced_queries: <a href="">view</a>
+1. **Schemas**: <a href="https://github.com/priya-lathiya/Library_Management_System/blob/main/sql%20queries/schemas.sql">view</a>
+2. **inserted_values**: <a href="https://github.com/priya-lathiya/Library_Management_System/blob/main/sql%20queries/inserted_values.sql">view</a>
+3. **Basic_queries**: <a href="https://github.com/priya-lathiya/Library_Management_System/blob/main/sql%20queries/Basic_queries.sql">view</a>
+4. **Advanced_queries**: <a href="https://github.com/priya-lathiya/Library_Management_System/blob/main/sql%20queries/Advanced_queries.sql">view</a>
 
 ## csv files of Tables:
 
-Tables: <a href="">view</a>
+**Tables**: <a href="https://github.com/priya-lathiya/Library_Management_System/tree/main/Data_Tables">view</a>
