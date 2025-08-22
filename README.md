@@ -1,6 +1,6 @@
 # Library Management System Using SQL:
 
-# Project Ovberview:
+# Project Overview:
 
 **Project Title**: Library Management System  
 **Database**: `library_managementdb`
